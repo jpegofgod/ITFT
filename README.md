@@ -20,5 +20,7 @@ learn RFC2616
 - Cloud manufacturers (Microsoft Entra ID), Amazon, 
 
 * Commandprompts and shells
+* UNIX systems
+* 
 
   
