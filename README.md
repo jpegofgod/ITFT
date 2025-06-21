@@ -12,4 +12,12 @@ As IT is very broad wider variety of different aspects require the same fundamen
 
 learn RFC2616
 
+- Server(s) infrastrucutre
+- DNS
+- DHCP
+- Cloud infrastructure
+- Active directory
+- Cloud manufacturers (Microsoft Entra ID), Amazon, 
+- 
+
   
