@@ -18,6 +18,7 @@ learn RFC2616
 - Cloud infrastructure
 - Active directory
 - Cloud manufacturers (Microsoft Entra ID), Amazon, 
-- 
+
+* Commandprompts and shells
 
   
