@@ -21,6 +21,7 @@ learn RFC2616
 
 * Commandprompts and shells
 * UNIX systems
-* 
+
+Towards building this project I began to gain more enthusiasm on building a Homelab as it it's a way to make mistakes and play around, witouth the pressure of knowledge, doing the either right or wrong thing. This is my personal advice as from the above subjects building a Homelab besides this will give more hands-on experience. This is however my personal preference and it just seems fun, so it nowhere a hard requirement. I also planned to setup a simple webpage with the stuff that I'm working on in the future, but I want to host it om my own server. I than came across a guy in a Metal Discord server who was running Proxmox and those toogether got me sucked in the Homelab rabbithole.
 
   
