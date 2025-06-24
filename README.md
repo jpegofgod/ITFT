@@ -6,6 +6,7 @@ and built stuff on top of the docs. I'll use as much information already existin
 As IT is very broad wider variety of different aspects require the same fundamentals. Some things you just got to know, that's why starting out with the first ... chapters is important. It's not all specifically IT but just subjects around connectivity for example which can't be missed as a person working in IT:
 
 * Operating systems
+* BOOT Proccess
 * Technology devices and components
 * WIFI and Internet Connectivity
 * Internet browsers and privacy
